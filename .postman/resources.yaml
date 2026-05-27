@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: eee06f6c-6716-4e50-891a-25286f364363
+
+localResources:
+  docs:
+    - ..\vendor\laravel\fortify\resources\boost\skills\fortify-development\SKILL.md
