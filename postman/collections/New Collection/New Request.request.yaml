@@ -1,0 +1,20 @@
+$kind: http-request
+name: New Request
+url: http://127.0.0.1:8000/api/articulos
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: "{\r
+
+    \"nombre\": \"Pelota con sonido\",\r
+
+    \"descripcion\": \"Ideal para perros medianos\",\r
+
+    \"precio\": 120.50,\r
+
+    \"categoria_id\": 1\r
+
+    }\r\n"
+order: 1779892430808

@@ -5,3 +5,5 @@ workspace:
 localResources:
   docs:
     - ..\vendor\laravel\fortify\resources\boost\skills\fortify-development\SKILL.md
+    - ..\vendor\laravel\framework\src\Illuminate\View\LICENSE.md
+SE.md
